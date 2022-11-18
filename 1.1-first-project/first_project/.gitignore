@@ -1,0 +1,5 @@
+.vscode/
+venv/
+app/__pycache__/
+app/migrations/__pycaches__/
+first_project/__pycache__/
