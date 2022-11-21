@@ -1,0 +1,5 @@
+venv/
+.vscode/
+recipes/__pycache__/
+calculator/__pycache__/
+calculator/migrations/__pycache__
