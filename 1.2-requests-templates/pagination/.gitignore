@@ -1,0 +1,4 @@
+venv/
+.vscode/
+pagination/__pycache__/
+stations/__pycache__/
